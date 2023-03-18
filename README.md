@@ -1,7 +1,7 @@
+<h1 align="center">Hi 👋, I'm Manish Barudi</h1>
 <img align="center" width="1200" src="https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif">
 
-<h1 align="center">Hi 👋, I'm Manish Barudi</h1>
-<h3 align="center">A frontend developer from India</h3>
+
 <img align="right" width="600" src="https://proinfobg.org/wp-content/uploads/2021/11/38.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manishchand349&label=Profile%20views&color=0e75b6&style=flat" alt="manishchand349" /> </p>
