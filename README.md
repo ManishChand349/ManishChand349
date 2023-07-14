@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **DSA**
 
-- 💬 Ask me about **React, Javascript, Java**
+- 💬 Ask me about **React, Javascript,**
 
 - 📫 How to reach me **manishchandr349@gmail.com**
 
