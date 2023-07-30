@@ -12,7 +12,9 @@
 - 
 <h3 align="left">Skills:</h3>
 <p align="left">
-<img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="papa.developerr" height="30" width="40" /></p>
+<img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="papa.developerr" height="30" width="40" />
+<img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="papa.developerr" height="30" width="40" />
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
