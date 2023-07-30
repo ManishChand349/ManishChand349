@@ -6,7 +6,7 @@
 
 - 💬 Ask me about **React, Javascript,**
 
-- 📫 How to reach me **manishchandr349@gmail.com**
+- 📫 See my portfolio at <a href="https://manish-seven.vercel.app/" target="blank">Portfolio</a>
 
 - ⚡ Fun fact **I think**
 
