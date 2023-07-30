@@ -18,7 +18,7 @@
   <img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" alt="papa.developerr" height="30" width="40" />
   <img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" alt="papa.developerr" height="30" width="40" />
 
-  <img align="center" src="https://corevaluetech.com/assets/illustrations/styled-component.webp" alt="papa.developerr" height="30" width="40" />
+  <img align="center" src="https://corevaluetech.com/assets/illustrations/styled-component.svg" alt="papa.developerr" height="30" width="40" />
 
   
   
