@@ -2,11 +2,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **DSA**
+- 🌱 I’m currently Learning **DSA**
 
 - 💬 Ask me about **React, Javascript,**
 
-- 📫 See my portfolio at <a href="https://manish-seven.vercel.app/" target="blank">Portfolio</a>
+- 🖥️ See my portfolio at <a href="https://manish-seven.vercel.app/" target="blank">Portfolio</a>
 
 - ⚡ Fun fact **I think**
 
