@@ -12,6 +12,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/papa.developerr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="papa.developerr" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/@papadeveloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@papadeveloper2" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/manishchand349/" target="blank"><img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" alt="papa.developerr" height="30" width="40" /></a>
+
 </p>
