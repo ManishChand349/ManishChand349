@@ -13,7 +13,18 @@
 <h3 align="left">Skills:</h3>
 <p align="left">
 <img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="papa.developerr" height="30" width="40" />
-<img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="papa.developerr" height="30" width="40" />
+<img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="papa.developerr" height="30" width="40" />
+  <img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="papa.developerr" height="30" width="40" />
+  <img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="papa.developerr" height="30" width="40" />
+  <img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" alt="papa.developerr" height="30" width="40" />
+  <img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" alt="papa.developerr" height="30" width="40" />
+
+  <img align="center" src="" alt="papa.developerr" height="30" width="40" />
+  
+  <img align="center" src="" alt="papa.developerr" height="30" width="40" />
+  
+  
+  
 </p>
 
 <h3 align="left">Connect with me:</h3>
