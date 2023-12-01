@@ -1,4 +1,5 @@
 <h1 align="center">Hola Amigo 👋, I'm Manish </h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ManishChand349&label=Profile%20views&color=0e75b6&style=flat" alt="ManishChand349" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
@@ -9,6 +10,7 @@
 - 🖥️ See my portfolio at <a href="https://manish-seven.vercel.app/" target="_blank">Portfolio</a>
 
 - ⚡ Fun fact **I think**
+- 
 <h3 align="left">Skills:</h3>
 <p align="left">
 <img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="papa.developerr" height="30" width="40" />
