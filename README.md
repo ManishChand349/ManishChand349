@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **React, Javascript,**
 
-- 🖥️ See my portfolio at <a href="https://manish-seven.vercel.app/" target="_blank">Portfolio</a>
+- 🖥️ See my portfolio at <a href="https://portfoliomanish.vercel.app/" target="_blank">Portfolio</a>
 
 - ⚡ Fun fact **I think**
 - 
