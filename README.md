@@ -3,28 +3,12 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently Learning **(**********8...)**
-
-- 💬 Ask me about **React, Javascript,**
+- 🌱 I’m Learning  **(XYZ)**
 
 - 🖥️ See my portfolio at <a href="https://portfoliomanish.vercel.app/" target="_blank">Portfolio</a>
+## Skills
 
-- ⚡ Fun fact **I think**
-- 
-<h3 align="left">Skills:</h3>
-<p align="left">
-<img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="papa.developerr" height="30" width="40" />
-<img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="papa.developerr" height="30" width="40" />
-  <img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="papa.developerr" height="30" width="40" />
-  <img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="papa.developerr" height="30" width="40" />
-  <img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" alt="papa.developerr" height="30" width="40" />
-  <img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" alt="papa.developerr" height="30" width="40" />
-
-  <img align="center" src="https://static.cdnlogo.com/logos/s/10/styled-components.svg" alt="papa.developerr" height="30" width="40" />
-
-  
-  
-</p>
+[![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=js,ts)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=react,next)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=tailwind,scss)](https://skillicons.dev) 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
