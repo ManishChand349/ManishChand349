@@ -12,7 +12,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/manishchand349/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="papa.developerr"  /></a></p>
+<a href="https://www.linkedin.com/in/manishchand349/" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="papa.developerr"  /></a></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ManishChand349&show_icons=true&locale=en&layout=compact" alt="" /></p>
 
