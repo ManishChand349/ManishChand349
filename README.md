@@ -1,18 +1,17 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Manish 
 ==============================================================================================================================
-
 Software Developer
 ------------------
 
 I decided to pursue my passion for Programming. I enjoy building sites & apps My focus is React (Next.js) I love the feeling of finally figuring out a solution to a problem and building my core stack is React , Next.js, Node.js and MongoDB, Express.js SQL. I am also familiar with TypeScript . I am always looking to learn new technologies.
 
-* 🌍  I'm based in New delhi India
+* 🌍  I'm based in New Delhi India
 * 🖥️  See my portfolio at [My WebSite](http://portfoliomanish.vercel.app/)
 * ✉️  You can contact me at [manishchandr349@gmail.com](mailto:manishchandr349@gmail.com)
 * 🚀  I'm currently working on [Myskills](http://portfoliomanish.vercel.app/)
 * 🧠  I'm learning New technologies.
 * 🤝  I'm open to collaborating on New Project
-* ⚡  i'm secretly Tony Stark.. but don't tell anyone
+* ⚡  I'm secretly Tony Stark.. but don't tell anyone
 
 
 ### Skills
